@@ -51,13 +51,13 @@ atom_feed:
 # The author sidebar
 author:
   name   : *name
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/dzq-200px.jpg"
   bio    : "Senior Year Student at Nanjing University"
   location : "Nanjing, China"
   email : "ziqian.ding@smail.nju.edu.cn"
   linkedin : "ziqian-ding"
   github : "dzqdudley"
-  
+
 include:
   - _pages
 
