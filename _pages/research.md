@@ -6,7 +6,6 @@ classes: wide
 ---
 
 ### Research Interests
-
 #### Topics
 - Artificial Intelligence, Influencer Marketing and Sharing Economy
 {: .small}
