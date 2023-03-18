@@ -6,9 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+remote_theme: mmistakes/minimal-mistakes@4.22.0
+minimal_mistakes_skin: default # or use "default"
 locale                   : "en-US"
 title                    : "Ziqian Ding"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Ziqian Ding"
 subtitle                 : "Personal Website"
 description              : >- # this means to ignore newlines until "next attribute:"
@@ -104,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ziqian-ding/"
+  linkedin         : "ziqian-ding"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
