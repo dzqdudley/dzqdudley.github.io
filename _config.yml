@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziqian Ding\n Personal Website"
+title                    : "Ziqian Ding"
 title_separator          : "-"
 name                     : &name "Ziqian Ding"
 description              : &description "personal description"
