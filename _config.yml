@@ -13,28 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-name: &name "Rubing Li" # my name, also used as default author
+name: &name "Ziqian Ding" # my name, also used as default author
 remote_theme: mmistakes/minimal-mistakes@4.22.0
 minimal_mistakes_skin: default # or use "default"
 title: *name # website title, also used in other places
 title_separator: "|" # Separator for subpages
 subtitle: "Personal Website" #appears in the masthead of the website
 description: >- # this means to ignore newlines until "next attribute:"
-  Personal academic website of Rubing Li, PhD student at the Stern School of Business, New York University.
-url: "https://rubingli.info"
-repository: "RubingLi123/rubingli123.github.io"
+  Personal Website of Ziqian Ding
+url: "https://dzqdudley.github.io"
+repository: "dzqdudley/dzqdudley.github.io"
 # logo: "/assets/images/bio_photo.jpg"
 
-email: rl4229@stern.nyu.edu
+email: ziqian.ding@smail.nju.edu.cn
 # twitter_username: username
-github_username: RubingLi123
+github_username: dzqdudley
 search: true
 locale: en-US
 
 analytics:
   provider: "google"
   google:
-    tracking_id: "UA-105220526-1"
+    tracking_id: #"UA-105220526-1"
     anonymize_ip: false # default
 
 # Build settings
@@ -52,19 +52,12 @@ atom_feed:
 author:
   name   : *name
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Third-year Ph.D student in Information Systems at NYU Stern"
-  location : "New York, NY, USA"
-  email : "rl4229@stern.nyu.edu"
-  linkedin : "rubing-li-24715a130"
-  github : "RubingLi123"
-  links:
-    - label: "New York University"
-      icon : "fas fa-university"
-      url : "https://www.nyu.edu/"
-    - label: "TOPS@Stern"
-      icon : "fas fa-user-friends"
-      url : "https://www.stern.nyu.edu/experience-stern/about/departments-centers-initiatives/academic-departments/ioms-dept"
-
+  bio    : "Senior Year Student at Nanjing University"
+  location : "Nanjing, China"
+  email : "ziqian.ding@smail.nju.edu.cn"
+  linkedin : "ziqian-ding"
+  github : "dzqdudley"
+  
 include:
   - _pages
 
