@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests
-======
+### Research Interests
 * Topics
   * Artificial Intelligence, Influencer Marketing and Sharing Economy 
 
@@ -18,6 +17,5 @@ Research Interests
   * Econometrics and Structural Modeling
   * Machine Learning, Computer Vision and Natural Language Processing
   
-Work in Progress
-======
+### Work in Progress
 * "COVID-19 Telemedicine Expansion: Hidden Consequences on Doctor Churn", with Vinayak Deshpande and Yuqian Xu. 2022.
