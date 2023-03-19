@@ -32,7 +32,7 @@ search: true
 locale: en-US
 
 analytics:
-  provider: "google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-BRC3G6LNSR"
     anonymize_ip: false # default
