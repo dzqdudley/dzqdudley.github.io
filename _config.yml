@@ -34,7 +34,7 @@ locale: en-US
 analytics:
   provider: "google"
   google:
-    tracking_id: #"UA-105220526-1"
+    tracking_id: "G-BRC3G6LNSR"
     anonymize_ip: false # default
 
 # Build settings
