@@ -51,7 +51,7 @@ atom_feed:
 # The author sidebar
 author:
   name   : *name
-  avatar : "/assets/images/profile.jpg"
+  avatar : "/assets/images/profile.png"
   bio    : "Senior Year Student at Nanjing University"
   location : "Nanjing, China"
   email : "dudley.ziqian.ding@gmail.com"
