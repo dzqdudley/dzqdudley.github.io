@@ -52,8 +52,8 @@ atom_feed:
 author:
   name   : *name
   avatar : "/assets/images/profile.png"
-  bio    : "Senior Year Student at Nanjing University"
-  location : "Nanjing, China"
+  bio    : "First Year PhD Student at CMU Tepper"
+  location : "Pittsburgh, PA"
   email : "dudley.ziqian.ding@gmail.com"
   linkedin : "ziqian-ding"
   github : "dzqdudley"
