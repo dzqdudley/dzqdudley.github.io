@@ -21,13 +21,13 @@ title_separator: "|" # Separator for subpages
 subtitle: "Personal Website" #appears in the masthead of the website
 description: >- # this means to ignore newlines until "next attribute:"
   Personal Website of Ziqian Ding
-url: "https://dzqdudley.github.io"
-repository: "dzqdudley/dzqdudley.github.io"
+#url: "https://dzqdudley.github.io"
+#repository: "dzqdudley/dzqdudley.github.io"
 # logo: "/assets/images/bio_photo.jpg"
 
 email: dudley.ziqian.ding@gmail.com
 # twitter_username: username
-github_username: dzqdudley
+#github_username: dzqdudley
 search: true
 locale: en-US
 
@@ -56,7 +56,7 @@ author:
   location : "Pittsburgh, PA"
   email : "dudley.ziqian.ding@gmail.com"
   linkedin : "ziqian-ding"
-  github : "dzqdudley"
+  #github : "dzqdudley"
 
 include:
   - _pages
