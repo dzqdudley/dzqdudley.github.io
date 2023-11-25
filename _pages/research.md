@@ -6,7 +6,8 @@ classes: wide
 ---
 
 - To be added
-<!--
+
+
 ### Research Interests
 
 - Topics
@@ -17,9 +18,5 @@ classes: wide
     - Econometrics and Structural Modeling
     - Modeling: Machine Learning, Computer Vision and Natural Language Processing
 
-
-### Work in Progress
-- "COVID-19 Telemedicine Expansion: Hidden Consequences on Doctor Churn", with Vinayak Deshpande and Yuqian Xu. 2022.
-{: .small}-->
 
 
