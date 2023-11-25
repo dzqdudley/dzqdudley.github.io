@@ -5,8 +5,6 @@ author_profile: true
 classes: wide
 ---
 
-- To be added
-
 
 ### Research Interests
 

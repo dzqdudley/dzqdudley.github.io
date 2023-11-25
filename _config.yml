@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "next attribute:"
 email: dudley.ziqian.ding@gmail.com
 # twitter_username: username
 #github_username: dzqdudley
-search: true
+search: false
 locale: en-US
 
 analytics:
@@ -51,7 +51,7 @@ atom_feed:
 # The author sidebar
 author:
   name   : *name
-  avatar : "/assets/images/profile.png"
+  avatar : "/assets/images/profile_23fall.png"
   bio    : "First Year PhD Student at CMU Tepper"
   location : "Pittsburgh, PA"
   email : "dudley.ziqian.ding@gmail.com"
