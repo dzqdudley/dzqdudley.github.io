@@ -9,12 +9,12 @@ classes: wide
 ### Research Interests
 
 - Topics
-    - Artificial Intelligence, Influencer Marketing and Sharing Economy
+    - Artificial Intelligence, Human-AI Interaction and Algorithm Bias
 
 
 - Methodologies
-    - Econometrics and Structural Modeling
-    - Modeling: Machine Learning, Computer Vision and Natural Language Processing
+    - Game Theory, Econometrics and Structural Modeling
+    - Machine Learning, Computer Vision and Natural Language Processing
 
 
 
